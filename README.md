@@ -14,8 +14,20 @@ Redeeming your Solpot bonus is simple and takes under a minute. Here’s how:
 
 **Step-by-step guide:**
 
-1.Visit [solpot.com](https://solpot.com/r/promocode)
-2.Create your new account
-3.Go to the “Daily Case” tab
-4.Enter the code **PROMOCODE**
-5.Submit and claim your free rewards
+* 1.Visit [solpot.com](https://solpot.com/r/promocode)
+* 2.Create your new account
+* 3.Go to the “Daily Case” tab
+* 4.Enter the code **PROMOCODE**
+* 5.Submit and claim your free rewards
+
+## **How to Deposit Solana into the Jackpot?**
+
+Depositing SOL into the Solpot Jackpot is as simple as 1-2-3:
+
+* **1.Connect Your Wallet** – Use Phantom, Solflare, or any other Solana-compatible wallet.
+
+* **2.Enter the Amount** – Choose how much SOL you want to contribute to the pot.
+
+* **3.Click Join** – Approve the transaction and you’re in the game.
+
+No complicated forms, no waiting. Thanks to Solana’s speed, your entry is confirmed instantly!

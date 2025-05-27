@@ -2,9 +2,7 @@
 
 ## **Solpot Promo Code to Claim Your Bonus Instantly!**
 
-The Solpot promo code **PROMOCODE** is your ticket to a powerful head start in 2025. By entering the code during registration, new users can unlock **Daily Free Solana Case** which contains **Free Rewards** from 0.001 SOL up to 10 SOL sol every 24 hours.
-
-_"Our mission is to make onboarding for new players seamless and rewarding, and HELLA3 is our top-tested entry code for the year."_ - GitHub Promotions Team
+The Solpot promo code **PROMOCODE** is your ticket to a powerful head start in 2025. By entering the code during registration, new users can unlock **Daily Free Solana Case** which contains **Free Rewards** from **0.001 SOL** up to **10 SOL** sol every 24 hours.
 
 ## **What is Solpot?**
 
